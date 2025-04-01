@@ -5,9 +5,7 @@ A modern, decentralized prediction market platform built with Next.js, TypeScrip
 ## Features
 
 ### Core Functionality
-- **Market Creation**: Create new prediction markets with custom questions and outcomes
 - **Market Participation**: Buy and trade shares in prediction markets
-- **Market Resolution**: Automatic resolution of markets based on real-world outcomes
 - **Real-time Updates**: Live updates of market status and share prices
 
 ### User Interface
@@ -84,10 +82,6 @@ src/
 
 - **[Kushal Desai (23CS019)](https://github.com/KushalvDesai)**
 - **[Jeet Dhaduk (23CS020)](https://github.com/23CS020DhadukJeet)**
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
