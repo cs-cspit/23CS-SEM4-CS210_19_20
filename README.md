@@ -88,4 +88,3 @@ src/
 - [Next.js](https://nextjs.org/)
 - [ThirdWeb](https://thirdweb.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Radix UI](https://www.radix-ui.com/)
